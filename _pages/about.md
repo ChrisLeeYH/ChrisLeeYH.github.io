@@ -45,7 +45,7 @@ for Students, Renmin University of China.
 - Studied and experienced international organizations in Geneva, and collaborated on a research report on relative international organizations. School of International Studies, Renmin University of China.
 
 
-<a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
+<!--<a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>
   <img src='//clustrmaps.com/map_v2.png?d=MtsfYgtIlqtL9wcmZXok1hKh3RwcTQtk7gMG3_8hsCI&cl=ffffff&w=600'/>
 </a>
 

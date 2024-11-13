@@ -1,23 +1,7 @@
----
----
-// 导入 minima 主题的默认样式
-@import "minima";
-
-// 定义深色模式的样式
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #ffffff;
-  }
-
-  a {
-    color: #bb86fc;
-  }
-
-  .post {
-    background-color: #1e1e1e;
-    border-color: #333;
-  }
-
-  /* 添加更多深色模式下的自定义样式 */
+}
+blog.setDarkTheme(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+if (window.matchMedia) {
+  var media = window.matchMedia('(prefers-color-scheme: dark)')
+  media.addListener(ev => (isDarkModel = blog.setDarkTheme(ev.currentTarget.matches)))
 }

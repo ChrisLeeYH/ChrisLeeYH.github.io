@@ -16,7 +16,7 @@ url                      : https://ChrisLeeYH.github.io # the base hostname & pr
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 theme: minima
 minima:
-  skin: dark
+  skin: null
 repository               : "ChrisLeeYH/ChrisLeeYH.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

@@ -1,19 +1,25 @@
 {% include base_path %}
 
-<div class="masthead">
+<div class="masthead" id="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button>
+          <div class="navicon"></div>
+        </button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/" class="menu-link">{{ site.title }}</a>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}" class="menu-link">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -21,3 +27,37 @@
     </div>
   </div>
 </div>
+
+<script>
+  // JavaScript to toggle dark mode styles for the masthead
+  document.addEventListener("DOMContentLoaded", function () {
+    const masthead = document.getElementById('masthead');
+    const menuLinks = document.querySelectorAll('.menu-link');
+    
+    function applyDarkMode(isDarkMode) {
+      if (isDarkMode) {
+        masthead.style.backgroundColor = "#333333"; // 背景颜色
+        menuLinks.forEach(link => {
+          link.style.color = "#bb86fc"; // 链接文字颜色
+        });
+      } else {
+        masthead.style.backgroundColor = ""; // 清除深色模式背景
+        menuLinks.forEach(link => {
+          link.style.color = ""; // 清除深色模式文字颜色
+        });
+      }
+    }
+
+    // 检查 localStorage 中是否有深色模式设置
+    const darkModeEnabled = localStorage.getItem("darkMode") === "true";
+    applyDarkMode(darkModeEnabled);
+
+    // 监听深色模式切换
+    document.body.classList.toggle("dark-mode", darkModeEnabled);
+    document.querySelector("button[onclick='toggleDarkMode()']").addEventListener("click", function () {
+      const isDarkMode = document.body.classList.toggle("dark-mode");
+      localStorage.setItem("darkMode", isDarkMode);
+      applyDarkMode(isDarkMode);
+    });
+  });
+</script>

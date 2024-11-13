@@ -1,0 +1,13 @@
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode a {
+  color: #bb86fc;
+}
+
+.dark-mode .post {
+  background-color: #1e1e1e;
+  border-color: #333;
+}

@@ -1,0 +1,16 @@
+---
+--- 
+@import "minima";
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+a {
+  color: #bb86fc;
+}
+
+.post {
+  background-color: #1e1e1e;
+  border-color: #333;
+}

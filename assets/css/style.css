@@ -4,7 +4,7 @@
 }
 
 .dark-mode a {
-  color: #bb86fc;
+  color: #84bcf5;
 }
 
 .dark-mode .post {
@@ -13,21 +13,23 @@
 }
 
 .dark-mode .masthead {
-  background-color: #333333; /* 设置菜单栏的深色背景 */
+  background-color: #333333; /* 主菜单栏的背景颜色 */
 }
 
 .dark-mode .masthead__menu {
-  background-color: #333333; /* 设置整个菜单容器的深色背景 */
+  background-color: #333333 !important; /* 内部菜单区域的背景颜色 */
+  color: #ffffff; /* 默认菜单文本颜色 */
 }
 
 .dark-mode .masthead__menu-item a {
-  color: #bb86fc; /* 设置菜单链接的文字颜色 */
-  text-decoration: none; /* 去除下划线（如果需要） */
+  color: #84bcf5 !important; /* 菜单链接的文字颜色 */
+  text-decoration: none; /* 去除下划线（如需要） */
 }
 
 .dark-mode .masthead__menu-item a:hover {
-  color: #ffffff; /* 悬停时的文字颜色 */
-  background-color: #444444; /* 悬停时的背景色 */
+  color: #ffffff; /* 悬停状态的文字颜色 */
+  background-color: #444444; /* 悬停背景色 */
 }
+
 
 /* 根据需要添加更多深色模式的样式 */

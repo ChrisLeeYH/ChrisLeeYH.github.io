@@ -4,9 +4,8 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin  : "dark"
-# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Yanheng (Chris) Li"
@@ -15,6 +14,9 @@ name                     : &name "Yanheng (Chris) Li"
 description              : &description "I am a Renmin University of China student passionate about Political Science, Computational Communication, Human-Computer Interaction and Big Data."
 url                      : https://ChrisLeeYH.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+theme: minima
+minima:
+  skin: dark
 repository               : "ChrisLeeYH/ChrisLeeYH.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

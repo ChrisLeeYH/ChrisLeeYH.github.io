@@ -34,7 +34,7 @@ You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curricu
 
 
 ## Competitions
-- **Outstanding Winner** of ICM (10,000$), Outstanding Winner with SIAM and COMAP Scholarship Award (**Top 3 in more than 22000 teams**), 2024, COMAP’s Interdisciplinary Contest in Modeling (ICM).
+- **Outstanding Winner** of ICM (10,000$). Outstanding Winner with SIAM and COMAP Scholarship Award (**Top 3 in more than 22000 teams**), 2024, COMAP’s Interdisciplinary Contest in Modeling (ICM).
 - **First Prize** in RUC Innovation Cup 2024. **Top 8%** in 26th “Innovation Cup” Academic Work Competition
 for Students, Renmin University of China.
 

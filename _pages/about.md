@@ -20,7 +20,6 @@ Through these pursuits, I strive to contribute to the forefront of political com
 You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Working Papers
-======
 
 - Understanding Voter Fraud Misinformation Videos during the 2024 Taiwan Election on YouTube <br>
 **Yanheng Li**, Da Wang, Yuping Wang

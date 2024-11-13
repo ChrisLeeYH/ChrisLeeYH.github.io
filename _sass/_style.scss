@@ -1,10 +1,23 @@
-body {
-  background-color: #121212;
-  color: #ffffff;
-}
+---
+---
+// 导入 minima 主题的默认样式
+@import "minima";
 
-a {
-  color: #bb86fc;
-}
+// 定义深色模式的样式
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #ffffff;
+  }
 
-/* 其他深色样式 */
+  a {
+    color: #bb86fc;
+  }
+
+  .post {
+    background-color: #1e1e1e;
+    border-color: #333;
+  }
+
+  /* 添加更多深色模式下的自定义样式 */
+}

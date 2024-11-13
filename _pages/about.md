@@ -45,7 +45,7 @@ for Students, Renmin University of China.
 - Studied and experienced international organizations in Geneva, and collaborated on a research report on relative international organizations. School of International Studies, Renmin University of China.
 
 
-<a href="http://www.clustrmaps.com/map/Chrisleeyh.github.io" title="Visit tracker for Chrisleeyh.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=Me_sEzsM2boLt8c8-yw7Ej7U5ICu0M-hw9sffOWhDYE" /></a>
+<!--<a href="http://www.clustrmaps.com/map/Chrisleeyh.github.io" title="Visit tracker for Chrisleeyh.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=Me_sEzsM2boLt8c8-yw7Ej7U5ICu0M-hw9sffOWhDYE" /></a>
 
 
 

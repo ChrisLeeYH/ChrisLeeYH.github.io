@@ -12,4 +12,18 @@
   border-color: #333;
 }
 
+.dark-mode .masthead {
+  background-color: #333333; /* 菜单的背景颜色 */
+  color: #ffffff; /* 菜单中的文字颜色 */
+}
+
+.dark-mode .masthead__menu-item a {
+  color: #bb86fc; /* 菜单链接颜色 */
+}
+
+.dark-mode .masthead__menu-item a:hover {
+  color: #ffffff; /* 菜单链接悬停颜色 */
+  background-color: #444444; /* 悬停时的背景色 */
+}
+
 /* 根据需要添加更多深色模式的样式 */

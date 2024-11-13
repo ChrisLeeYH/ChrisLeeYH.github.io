@@ -8,46 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from Information Management Department, [Peking University](https://www.pku.edu.cn/). I am fortunate to work as a research assistant at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) under the supervision of Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My research interest lies broadly in NLP and ML. Recently I am drawn by the development of large language models. A list of topics i am actively thinking about/working on: 
-- **Enhancing Knowledge Retrieval in LLMs**: I am deeply engaged in exploring methodologies that can dynamically enhance large language models' ability to retrieve information, akin to human cognition. I believe retrieval is crucial for enabling LLMs to continually learn and adapt to the ever-changing world knowledge.
+I'm a junior student from the School of International Studies(SIS)/School of Philosophy, [Renmin University of China](https://www.ruc.edu.cn/). My research interest lies broadly in Computational Political Science and Computational Communication. Recently I have been drawn by the knowledge of political misinformation on social media. Here is a list of topics I am actively thinking about/working on: 
+- **The Properties of Political Misinformation Online**: I am deeply engaged in exploring the properties of political misinformation on social media, corresponding to election topics. I believe that, understanding the properties of political misinformation is crucial for enabling governments/society to detect misinformation and continually build a better platform for expressing public opinion.
 
-- **Decoding the Knowledge Architecture of LLMs**: Intrigued by the inner mechanisms of knowledge storage within LLMs, I aspire to unravel the unique patterns they employ. This investigation not only promises to inform knowledge discovery processes but also offers intriguing parallels to understanding the mysteries of knowledge storage in the human brain.
+- **Public Opinion and Ideologies on Social Media**: Intrigued by the inner mechanisms of the formation of public opinion (e.g. polarization, Spiral of silence）, I aspire to uncover and examine the unique process discussed by different public opinion theories by large empirical data and social experiments on social media. This investigation not only promises to inform the law of public opinion formation but also offers intriguing parallels to understanding censorship and manipulation on social media by governments in some special countries/platforms.
 
-- **Human-LLM Interaction Dynamics**: Another facet of my research curiosity lies in examining the interfaces between large language models and their human users. I am particularly captivated by the concept of a highly tailored AI assistant capable of evolving in tandem with a user's individual experiences and memories, thereby redefining personalized interaction.
+- **Human-Computer Interaction Methodologies for Social Science Research**: Another facet of my research curiosity lies in examining the interfaces between computer/artificial intelligence and human researchers for social science (e.g. political science). I am particularly captivated by the concept of a highly tailored AI research assistant capable of involving in research with a researcher's individual experiences and interests, thereby developing personalized interaction.
 
-Through these pursuits, I strive to contribute to the forefront of NLP and ML research, pushing the boundaries of what's possible in artificial intelligence while drawing insights that bridge the gap between machine and human cognition. My long-term research goal is to build a self-evolving LLM capable of continuous learning and adaptation, ultimately achieving a higher degree of artificial general intelligence.
+Through these pursuits, I strive to contribute to the forefront of political communication and computational methodologies. My long-term research goal is to build a self-contained theory grounded by large data and experiments to explain the features of political information and public opinion in the digital age, interacting with previous theories, and ultimately pushing the boundaries of knowledge that help people understand public opinion and information on social media.
 
-You can find my CV here: [Jiatao Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Preprints
-======
+## Working Papers
 
-- SMART-RAG: Selection using Determinantal Matrices for Augmented Retrieval <br>
-**Jiatao Li**, Xinyu Hu, Xiaojun Wan  
-*arXiv*:2409.13992 [[pdf](https://arxiv.org/pdf/2409.13992)]
+- Understanding Voter Fraud Misinformation Videos during the 2024 Taiwan Election on YouTube <br>
+**Yanheng Li**, Da Wang, Yuping Wang
+   (Submitted to CSCW 2025)  
 
-- Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models <br>
-**Jiatao Li**, Xinyu Hu, Xunjian Yin, Xiaojun Wan  
-*arXiv*:2410.13192 [[pdf](https://arxiv.org/pdf/2410.13192)]
+- Exploring Multi-Modal Misinformation during the 2024 US Election on Cross-Platforms <be>
 
 
 ## Selected Awards
-- 2023 Peking University Annual Person of the Year Nomination (**Youngest Nominee**, **45**/65k+, [blog spotlight in Chinese](https://mp.weixin.qq.com/s/9AX7mmZwutBP2PtUydvezg))
-- Peking University May 4th Scholarship, 2022-2023 (**Highest-level Scholarship** in Peking University, **125**/65k+)
-- Peking University Merit Student Pacesetter, 2022-2023 (**Top1%**)
-- CSDN Blog Star 2023 June City Track (Beijing) **Top10**.
-
+- Principal’s Scholarship for **Excellent Exchange Student** (30,000 CNY), 2024, Renmin University of China.
+- Student Academic Award (5,000 CNY). **Top 2%** Student Academic Award, 2024, Renmin University of China.
+- Outstanding Cultural and Sports Leaders Scholarship, 2024, Renmin University of China.
 
 
 ## Competitions
-- Kaggle Competition:HousePrice Prediction **Top1%**
-- 2023 Tianchi BMW 3rd Hackathon - Virtual Collaborative Co-Creation Track & Finals **Rank1**
-- 2023 Peking University Hackathon Track2(WebGPU) **Rank2**
-- 2023 Greater Bay Area (Huangpu) International Algorithm Case Competition - Advanced Enhancement of Large Language Model Comprehensive Abilities (Pazhou Laboratory & Fudan University), **Finalist**.
-  
+- **Outstanding Winner** of ICM (10,000$), Outstanding Winner with SIAM and COMAP Scholarship Award (**Top 3** in around 22000 teams), 2024, COMAP’s Interdisciplinary Contest in Modeling (ICM).
+- **First Prize** in RUC Innovation Cup 2024. **Top 8%** in 26th “Innovation Cup” Academic Work Competition
+for Students, Renmin University of China.
+
+
 ## Projects
-- Building the AI Enterprise Knowledge Graph Section in the Comprehensive Domain Knowledge Graph of AI
-- The compilation of the enterprise information resource management section in the basic textbook of information resource management
+- Involved in building the cleaned database of Chinese Genealogy Data, applying text data processing and analysis. National Academy of Development and Strategy, Renmin University of China.
+- Studied and experienced international organizations in Geneva, and collaborated on a research report on relative international organizations. School of International Studies, Renmin University of China.
 
 
 <a href='https://clustrmaps.com/site/1bzs6'  title='Visit tracker'>

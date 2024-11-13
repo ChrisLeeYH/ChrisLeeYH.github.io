@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiatao Li"
+title                    : "Yanheng (Chris) Li"
 title_separator          : "-"
-name                     : &name "Jiatao Li"
-description              : &description "I am a Peking University student with a passion for Knowledge Graph,Computer Graph,Searching Engine,NLP,Machine Learning,Text Mining and Big Data."
-url                      : https://leejamesss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leejamesss/leejamesss.github.io"
+name                     : &name "Yanheng (Chris) Li"
+description              : &description "I am a Renmin University of China student passionate about Political Science, Computational Communication, Human-Computer Interaction and Big Data."
+url                      : https://ChrisLeeYH.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+repository               : "ChrisLeeYH/ChrisLeeYH.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiatao Li"
-  avatar           : "profile_photo.png"
-  bio              : "Undergrad student at Peking University working on NLP"
+  name             : "Yanheng (Chris) Li"
+  avatar           : "profile.png"
+  bio              : "Undergraduate student at Renmin University of China working on political science"
   location         : "Beijing China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rhqBwx8AAAAJ&hl=en"
-  email            : "leejames@stu.pku.edu.cn"
+  googlescholar    : # ""
+  email            : "chrislee1067@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leejamesss"
+  github           : "ChrisLeeYH"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiatao-li-44527128a/"
+  linkedin         : "yanheng-chris-li-745982329/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  csdn             : "https://blog.csdn.net/m0_72410588?spm=1000.2115.3001.5343"
+  csdn             : #""
   vine             :
-  twitter          : "JiataoLi2004"
+  twitter          : "Chris468562"
   weibo            :
   xing             :
   youtube          :
@@ -266,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -302,7 +303,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/

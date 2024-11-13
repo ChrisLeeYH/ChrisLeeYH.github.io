@@ -2,46 +2,20 @@
 
 <meta charset="utf-8">
 
-<!-- SEO -->
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
-<!-- Mobile Optimizations -->
+<!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- JavaScript class for HTML element -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- Main Stylesheet -->
+<!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
-<!-- Additional Stylesheet for Dark Mode -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/style.css">
-
-<!-- Enable Cleartype for Microsoft Internet Explorer -->
 <meta http-equiv="cleartype" content="on">
-
-<!-- Dark Mode Toggle Script -->
-<script>
-  // Check for dark mode preference in localStorage
-  const darkModeEnabled = localStorage.getItem("darkMode") === "true";
-  if (darkModeEnabled) {
-    document.documentElement.classList.add("dark-mode");
-  }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    const darkModeButton = document.querySelector("button[onclick='toggleDarkMode()']");
-    
-    if (darkModeButton) {
-      darkModeButton.addEventListener("click", function () {
-        const isDarkMode = document.documentElement.classList.toggle("dark-mode");
-        localStorage.setItem("darkMode", isDarkMode);
-      });
-    }
-  });
-</script>

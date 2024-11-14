@@ -14,11 +14,11 @@
 
 /* 深色模式下的 masthead 样式 */
 .dark-mode .masthead {
-  background-color: #333333; /* 菜单栏背景色 */
+  background-color: #121212; /* 菜单栏背景色 */
 }
 
 .dark-mode .masthead__menu-item a {
-  color: #84bcf5; /* 链接文字颜色 */
+  color: #ebe6e6; /* 链接文字颜色 */
 }
 
 .dark-mode .masthead__menu-item a:hover {

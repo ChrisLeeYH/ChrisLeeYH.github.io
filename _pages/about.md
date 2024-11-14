@@ -22,7 +22,7 @@ You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curricu
 ## Working Papers
 
 - Understanding Voter Fraud Misinformation Videos during the 2024 Taiwan Election on YouTube <br>
-**Yanheng Li**, Da Wang, Yuping Wang *(Submitted)*
+**Yanheng Li**, Da Wang, Yuping Wang *(In submission)*
 
 - Exploring Multi-Modal Misinformation during the 2024 US Election on Cross-Platforms <be>
 

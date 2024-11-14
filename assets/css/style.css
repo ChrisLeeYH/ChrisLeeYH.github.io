@@ -11,3 +11,18 @@
   background-color: #1e1e1e;
   border-color: #333333;
 }
+
+/* 深色模式下的 masthead 样式 */
+.dark-mode .masthead {
+  background-color: #333333; /* 菜单栏背景色 */
+}
+
+.dark-mode .masthead__menu-item a {
+  color: #84bcf5; /* 链接文字颜色 */
+}
+
+.dark-mode .masthead__menu-item a:hover {
+  color: #ffffff; /* 悬停时的文字颜色 */
+  background-color: #444444; /* 悬停时的背景颜色 */
+}
+

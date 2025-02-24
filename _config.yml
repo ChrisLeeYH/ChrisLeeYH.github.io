@@ -86,11 +86,11 @@ analytics:
 author:
   name             : "Yanheng (Chris) Li"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Renmin University of China, working on political science"
-  location         : "Rome Italy"
+  bio              : "Undergraduate student at Renmin University of China, working on political communication"
+  location         : "Beijing China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # ""
+  googlescholar    : "https://scholar.google.com/citations?user=M3YOdGgAAAAJ&hl=en"
   email            : "chrislee1067@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

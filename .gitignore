@@ -1,2 +1,4 @@
-_site/
-
+set_api.bash
+secrets.toml
+git.bash
+.DS_Store

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yanheng (Chris) Li"
 title_separator          : "-"
 name                     : &name "Yanheng (Chris) Li"
-description              : &description "I am a Renmin University of China student passionate about Political Science, Computational Communication, Human-Computer Interaction and Big Data."
+description              : &description "I am a Renmin University of China student passionate about Information Science, Computational Communication, Human-Computer Interaction and Big Data."
 url                      : https://ChrisLeeYH.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 theme: minima
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanheng-chris-li-745982329/"
+  linkedin         :
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from the School of International Studies(SIS)/School of Philosophy, [Renmin University of China](https://www.ruc.edu.cn/). My research interest lies broadly in Human Computer Interaction (HCI) and Computational Social Science (especially social media, trust and privacy, and Communications). Recently I have been drawn by the knowledge of political misinformation and public opinions on social media. Here is a list of topics I am actively thinking about/working on: 
+I'm a junior student from the School of International Studies(SIS)/School of Philosophy, [Renmin University of China](https://www.ruc.edu.cn/). My research interest lies broadly in Human Computer Interaction (HCI) and Computational Social Science (especially social media, trust and privacy, democracy, and Communications). Recently I have been drawn by the knowledge of political misinformation and public opinions on social media. Here is a list of topics I am actively thinking about/working on: 
 - **The Properties of Political Misinformation Online**: I am deeply engaged in exploring the properties of political misinformation on social media, corresponding to election topics. I believe that understanding the properties of political misinformation is crucial for enabling governments/society to detect misinformation and continually build a better platform for expressing public opinion.
 
 - **Public Opinion and Ideologies on Social Media**: Intrigued by the inner mechanisms of the formation of public opinion (e.g. polarization, spiral of silence), I aspire to uncover and examine the unique process discussed by different public opinion theories by large empirical data and social experiments on social media. This investigation not only promises to inform the law of public opinion formation but also offers intriguing parallels for understanding information censorship and manipulation on social media by governments in some special countries/platforms.
@@ -29,7 +29,7 @@ You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curricu
 
 - **Li, Yanheng.**, Wang, Da., & Wang, Yuping. Analyzing Information Operation for the Late December Government Shutdown Crisis on YouTube. (Manuscript in preparation)
 
-- Li, Jiatao., **Li Yanheng*.**, \& Wan, Xiaojun. (2025). Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview. arXiv preprint arXiv:2505.01967. Under Review.
+- Li, Jiatao., **Li Yanheng.**, & Wan, Xiaojun. (2025). Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview. arXiv preprint arXiv:2505.01967. Under Review.
 
 
 ## Selected Awards

@@ -25,18 +25,20 @@ Accepted and forthcoming in *CSCW 2025*.
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
 </div>
 
-<div style="text-align:center; margin: 20px 0;">
-  <img src="/images/pub_figures/taiwan/RQ3A_ecdf.png" 
-       alt="Findings figure 2" 
-       style="max-width:100%; height:200px;"/>
-  <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
-</div>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="text-align:center;">
+    <img src="/images/pub_figures/taiwan/RQ3A_ecdf.png" 
+         alt="Findings figure 2" 
+         style="max-width:100%; height:200px;"/>
+    <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+  </div>
 
-<div style="text-align:center; margin: 20px 0;">
-  <img src="/images/pub_figures/taiwan/RQ3B_ecdf.png" 
-       alt="Findings figure 3" 
-       style="max-width:100%; height:200px;"/>
-  <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+  <div style="text-align:center;">
+    <img src="/images/pub_figures/taiwan/RQ3B_ecdf.png" 
+         alt="Findings figure 3" 
+         style="max-width:100%; height:200px;"/>
+    <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+  </div>
 </div>
 
 

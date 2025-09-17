@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -15,9 +13,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-
   - title: "Curriculum_Vitae"
     url: /assets/Curriculum_Vitae.pdf
+
+  - title: "Research"
+    url: /_research/research.md
     
   # - title: "Guide"
   #   url: /markdown/

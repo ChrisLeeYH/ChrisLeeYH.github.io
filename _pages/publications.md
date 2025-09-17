@@ -31,8 +31,8 @@ I designed the human-in-the-loop pipeline to analyze **5,000+** YouTube videos,.
 The analysis yields several findings;
 - Video accounts aligned with the Democratic Progressive Party (DPP) produce the highest number of videos discussing voter fraud misinformation.
 - Videos discussing such misinformation tend to receive more comments but fewer likes compared to videos without this content _(Engagement metrics comparison)_.
-- Voter-fraud Videos associated with the DPP are quite distinct from those linked to the Kuomintang (KMT) or Taiwan People's Party (TPP), with unique characteristics that may be further revealed through their audio and video features _(Multi-modal analysis of videos across publisher parties)_.
-- Voter-fraud videos by traditional media accounts tend to exhibit a more standardized tempo, higher brightness, greater visual complexity (entropy), and higher face presence compared to grassroots accounts _(Multi-modal analysis comparison of videos across publisher types)_.
+- Voter-fraud Videos associated with the DPP are quite distinct from those linked to the Kuomintang (KMT) or Taiwan People's Party (TPP), with unique characteristics that may be further revealed through their audio and video features _(Multi-modal analysis and comparison of videos across publisher parties)_.
+- Voter-fraud videos by traditional media accounts tend to exhibit a more standardized tempo, higher brightness, greater visual complexity (entropy), and higher face presence compared to grassroots accounts _(Multi-modal analysis and comparison of videos across publisher types)_.
 - Case studies highlight several key divergences compared with voter fraud misinformation in the 2020 U.S. presidential election, particularly in terms of narrative strategies.
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/pub_figures/taiwan/RQ2ecdf.png" 
@@ -46,14 +46,14 @@ The analysis yields several findings;
     <img src="/images/pub_figures/taiwan/RQ3A_ecdf.png" 
          alt="Findings figure 2" 
          style="max-width:100%; height:200px;"/>
-    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis of videos across publisher parties</p>
+    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis and comparison of videos across publisher parties</p>
   </div>
 
   <div style="text-align:center;">
     <img src="/images/pub_figures/taiwan/RQ3B_ecdf.png" 
          alt="Findings figure 3" 
          style="max-width:100%; height:200px;"/>
-    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis comparison of videos across publisher types</p>
+    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis and comparison of videos across publisher types</p>
   </div>
 </div>
 

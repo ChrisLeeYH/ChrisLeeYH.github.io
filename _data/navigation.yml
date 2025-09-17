@@ -17,7 +17,7 @@ main:
     url: /assets/Curriculum_Vitae.pdf
 
   - title: "Research"
-    url: /_research/research.md
+    url: /_research/research/
     
   # - title: "Guide"
   #   url: /markdown/

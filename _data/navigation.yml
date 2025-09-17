@@ -14,7 +14,7 @@ main:
   #   url: /year-archive/
 
   - title: "Curriculum_Vitae"
-    url: /assets/Curriculum_Vitae.pdf
+    url: /assets/cv.pdf
 
   - title: "Publications"
     url: /publications/

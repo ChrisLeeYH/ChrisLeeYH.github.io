@@ -69,7 +69,7 @@ Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/ab
 
 
 **Short Abstract:** 
-We introduce an aspect-guided perturbation framework to diagnose vulnerabilities of Large Language Models (LLMs) in peer review. By perturbing papers, reviews, and rebuttals along dimensions such as contribution, soundness, presentation, tone, and completeness, we reveal where LLM reviewers are most error-prone. Our analysis across major LLMs (GPT-4o, Gemini 2.0, LLaMA 3) highlights recurring weaknesses, including misjudging methodological flaws, over-weighting strong rejections, mishandling incomplete rebuttals, and misinterpreting poor critiques as rigorous. These findings provide actionable insights for building balanced human–AI peer review partnerships.
+We introduce an aspect-guided perturbation framework to diagnose vulnerabilities of Large Language Models (LLMs) in peer review. By perturbing papers, reviews, and rebuttals along dimensions such as contribution, soundness, presentation, tone, and completeness, we reveal where LLM reviewers are most error-prone. Our analysis across major LLMs (GPT-4o, Gemini 2.0, LLaMA 3, etc) highlights recurring weaknesses, including misjudging methodological flaws, over-weighting strong rejections, mishandling incomplete rebuttals, and misinterpreting poor critiques as rigorous. These findings provide actionable insights for building balanced human–AI peer review partnerships.
 
 
 keywords:

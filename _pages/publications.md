@@ -105,10 +105,11 @@ I co-examine the robustness of LLMs when used as automated peer reviewers.
 
 # Under Review Working Papers
 (For discussion and more details, please contact me directly)
-## Understanding Participatory Amplification on YouTube in the Late December 2024 U.S. Government (Almost) Shutdown Crisis** 
+## Understanding Participatory Amplification on YouTube in the Late December 2024 U.S. Government (Almost) Shutdown Crisis  
 **Li, Yanheng**, Wang, Da, & Wang, Yuping. Under review.
+
 **Short Abstract:** 
 Under the context of the late-December 2024 U.S. government (almost) shutdown crisis, we analyzed 11,263 YouTube videos and 466,994 comments to examine how users engaged with political turmoil online. Using a multi-run human-in-the-loop pipeline, we identified 518 “amplifiers”—commenters whose threads attracted disproportionate replies—and developed an amplifier index to capture their influence. Two patterns emerged: occasional amplifiers, often tied to influencer uploads, and frequent amplifiers, who engaged across multiple YouTubers. Our findings reveal how amplifier behavior and platform affordances shape information diffusion during crises, offering insights for designing more responsive social media systems.
 
-## vAnalyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview** [arXiv:2505.01967](https://arxiv.org/abs/2505.01967)
-Li, Jiatao., **Li, Yanheng**., & Wan, Xiaojun. Under review.
+ ## Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview 
+Li, Jiatao., **Li, Yanheng**., & Wan, Xiaojun. [arXiv:2505.01967](https://arxiv.org/abs/2505.01967). Under review.

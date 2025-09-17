@@ -32,4 +32,4 @@ redirect_from:
   <p style="font-size:0.9em; color:#555;">Watching Les Miserables in Zurich, 2025</p>
 </div>
 
-- Music has been a personal passion since childhood. I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China. This training not only gave me technical skill but also taught me discipline and a lifelong appreciation for artistic expression.
+- Music has been a personal passion since childhood. I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China. This training not only gave me technical skill but also taught me creativity and a lifelong appreciation for artistic expression.

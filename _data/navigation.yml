@@ -16,8 +16,8 @@ main:
   - title: "Curriculum_Vitae"
     url: /assets/Curriculum_Vitae.pdf
 
-  - title: "Research"
-    url: /_research/research/
+  - title: "Publications"
+    url: /publications/
     
   # - title: "Guide"
   #   url: /markdown/

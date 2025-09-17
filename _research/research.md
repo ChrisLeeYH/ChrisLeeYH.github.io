@@ -1,1 +1,0 @@
-Below is my research:

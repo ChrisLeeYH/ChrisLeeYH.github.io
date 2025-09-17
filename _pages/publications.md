@@ -9,7 +9,17 @@ author_profile: true
 
 ## Understanding Voter Fraud Misinformation Videos during the 2024 Taiwan Election on YouTube
 **Li, Yanheng**, Wang, Da, & Wang, Yuping.  
-Accepted and forthcoming in *CSCW 2025*.
+Accepted and forthcoming in **CSCW 2025**.
+
+**Short Abstract:** 
+This paper present a mixed-method analysis of voter fraud misinformation on YouTube during Taiwan’s 2024 election. Using a computational pipeline and manual coding, we identify videos discussing ballot-related fraud claims. Our findings show that Democratic Progressive Party (DPP)-aligned accounts produced the most such content, which drew more comments but fewer likes than other videos. Case studies reveal distinct strategies: some media outlets and grassroots accounts promoted fraud claims, while DPP-linked channels often refuted them. This study sheds light on the dynamics of voter fraud misinformation in Taiwan and informs global efforts to mitigate its spread.
+
+keywords:
+Misinformation, Election, Social Media, YouTube, Multimodal, Videos
+
+I designed the human-in-the-loop pipeline to analyze **5,000+** YouTube videos,.
+- Including data collection, identification of voter-fraud videos, multi-modal and statistical analysis.
+- Applied a **human-in-the-loop pipeline** (transcripts and misinformation typology coding).  
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/pub_figures/taiwan/taiwan_workflow.png" 
@@ -18,11 +28,17 @@ Accepted and forthcoming in *CSCW 2025*.
   <p style="font-size:0.9em; color:#555;">Pipeline overview of Taiwan voter fraud study</p>
 </div>
 
+The analysis yields several findings;
+- Video accounts aligned with the Democratic Progressive Party (DPP) produce the highest number of videos discussing voter fraud misinformation.
+- Videos discussing such misinformation tend to receive more comments but fewer likes compared to videos without this content _(Engagement metrics comparison)_.
+- Voter-fraud Videos associated with the DPP are quite distinct from those linked to the Kuomintang (KMT) or Taiwan People's Party (TPP), with unique characteristics that may be further revealed through their audio and video features _(Multi-modal analysis of videos across publisher parties)_.
+- Voter-fraud videos by traditional media accounts tend to exhibit a more standardized tempo, higher brightness, greater visual complexity (entropy), and higher face presence compared to grassroots accounts _(Multi-modal analysis comparison of videos across publisher types)_.
+- Case studies highlight several key divergences compared with voter fraud misinformation in the 2020 U.S. presidential election, particularly in terms of narrative strategies.
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/pub_figures/taiwan/RQ2ecdf.png" 
        alt="Findings figure 1" 
        style="max-width:100%; height:200px;"/>
-  <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+  <p style="font-size:0.9em; color:#555;">Findings: Engagement metrics comparison across videos types</p>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
@@ -30,29 +46,34 @@ Accepted and forthcoming in *CSCW 2025*.
     <img src="/images/pub_figures/taiwan/RQ3A_ecdf.png" 
          alt="Findings figure 2" 
          style="max-width:100%; height:200px;"/>
-    <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis of videos across publisher parties</p>
   </div>
 
   <div style="text-align:center;">
     <img src="/images/pub_figures/taiwan/RQ3B_ecdf.png" 
          alt="Findings figure 3" 
          style="max-width:100%; height:200px;"/>
-    <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+    <p style="font-size:0.9em; color:#555;">Findings: Multi-modal analysis comparison of videos across publisher types</p>
   </div>
 </div>
 
 
 
-This study investigates how misinformation narratives about voter fraud emerged and spread on YouTube during Taiwan’s 2024 presidential election.  
-- Built a multimodal dataset of **5,000+ YouTube videos**.  
-- Applied a **human-in-the-loop pipeline** (transcripts, comments, misinformation typology coding).  
-- Identified **cross-camp asymmetries** in narrative framing.
+
 
 ---
 
 ## Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review
 Li, Jiatao., **Li, Yanheng**, Hu, Xinyu., Gao, Mingqi., & Wan, Xiaojun.  
 Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/abs/2502.12510)
+
+
+**Short Abstract:** 
+We introduce an aspect-guided perturbation framework to diagnose vulnerabilities of Large Language Models (LLMs) in peer review. By perturbing papers, reviews, and rebuttals along dimensions such as contribution, soundness, presentation, tone, and completeness, we reveal where LLM reviewers are most error-prone. Our analysis across major LLMs (GPT-4o, Gemini 2.0, LLaMA 3) highlights recurring weaknesses, including misjudging methodological flaws, over-weighting strong rejections, mishandling incomplete rebuttals, and misinterpreting poor critiques as rigorous. These findings provide actionable insights for building balanced human–AI peer review partnerships.
+
+
+keywords:
+Aspect-Guided Perturbation, Automated Peer Review, Robustness Evaluation, Bias Analysis
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/pub_figures/ai_review/ai_review_pipeline.png" 

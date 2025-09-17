@@ -68,12 +68,12 @@ Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/ab
   <p style="font-size:0.9em; color:#555;">Findings: distribution of voter fraud misinformation videos</p>
 </div> -->
 
-<div style="text-align:center; margin: 20px 0;">
+<!-- <div style="text-align:center; margin: 20px 0;">
   <img src="/images/pub_figures/ai_review/acc_rate.png" 
        alt="Findings figure 2" 
        style="max-width:100%; height:200px;"/>
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
-</div>
+</div> -->
 
 We examine the robustness of LLMs when used as automated peer reviewers.  
 - Designed an **aspect-guided multi-level perturbation framework**.  

@@ -96,9 +96,9 @@ Aspect-Guided Perturbation, Automated Peer Review, Robustness Evaluation, Bias A
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
 </div> -->
 
-We examine the robustness of LLMs when used as automated peer reviewers.  
-- Designed an **aspect-guided multi-level perturbation framework**.  
-- Evaluated multiple LLMs on review tasks.  
+I co-examine the robustness of LLMs when used as automated peer reviewers.  
+- Co-Designed an **aspect-guided multi-level perturbation framework**.  
+- Co-Evaluated multiple LLMs on review tasks.  
 - Found systematic **cognitive biases and stability gaps**.  
 
 ---

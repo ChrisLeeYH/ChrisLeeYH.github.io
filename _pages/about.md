@@ -19,7 +19,6 @@ I'm a senior student from the School of International Studies(SIS)/School of Phi
 
 Through these pursuits, I strive to contribute to the forefront of HCI and computational social science. My long-term research goal is to build a set of self-contained HCI framworks / tookits grounded by large data and experiments to help explain the features of information operation/diffusion, multimodal communication, and public opinion in the digital age, interacting with previous theories and methods, and ultimately pushing the boundaries of knowledge that help people better understand social media and broader human factors in computer systems.
 
-You can find my CV here: [Yanheng Chris Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Publications
 

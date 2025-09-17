@@ -19,18 +19,27 @@ Accepted and forthcoming in *CSCW 2025*.
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/pub_figures/taiwan/RQ12.png" 
+  <img src="/images/pub_figures/taiwan/RQ2ecdf.png" 
        alt="Findings figure 1" 
-       style="max-width:100%; height:300px;"/>
-  <p style="font-size:0.9em; color:#555;">Findings: distribution of voter fraud misinformation videos</p>
+       style="max-width:100%; height:200px;"/>
+  <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="/images/pub_figures/taiwan/RQ2ecdf.png" 
+  <img src="/images/pub_figures/taiwan/RQ3A_ecdf.png" 
        alt="Findings figure 2" 
        style="max-width:100%; height:200px;"/>
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
 </div>
+
+<div style="text-align:center; margin: 20px 0;">
+  <img src="/images/pub_figures/taiwan/RQ3B_ecdf.png" 
+       alt="Findings figure 3" 
+       style="max-width:100%; height:200px;"/>
+  <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
+</div>
+
+
 
 This study investigates how misinformation narratives about voter fraud emerged and spread on YouTube during Taiwan’s 2024 presidential election.  
 - Built a multimodal dataset of **5,000+ YouTube videos**.  

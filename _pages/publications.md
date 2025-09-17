@@ -12,21 +12,21 @@ author_profile: true
 Accepted and forthcoming in *CSCW 2025*.
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="pub_figures/taiwan/taiwan_workflow.png" 
+  <img src="/images/pub_figures/taiwan/taiwan_workflow.png" 
        alt="Pipeline overview" 
        style="max-width:100%; height:300px;"/>
   <p style="font-size:0.9em; color:#555;">Pipeline overview of Taiwan voter fraud study</p>
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="pub_figures/taiwan/RQ12.png" 
+  <img src="/images/pub_figures/taiwan/RQ12.png" 
        alt="Findings figure 1" 
        style="max-width:100%; height:300px;"/>
   <p style="font-size:0.9em; color:#555;">Findings: distribution of voter fraud misinformation videos</p>
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="pub_figures/taiwan/RQ2ecdf.png" 
+  <img src="/images/pub_figures/taiwan/RQ2ecdf.png" 
        alt="Findings figure 2" 
        style="max-width:100%; height:200px;"/>
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>
@@ -44,7 +44,7 @@ Li, Jiatao., **Li, Yanheng**, Hu, Xinyu., Gao, Mingqi., & Wan, Xiaojun.
 Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/abs/2502.12510)
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="pub_figures/ai_review/ai_review_pipeline.png" 
+  <img src="/images/pub_figures/ai_review/ai_review_pipeline.png" 
        alt="Pipeline overview" 
        style="max-width:100%; height:300px;"/>
   <p style="font-size:0.9em; color:#555;">Pipeline overview of Taiwan voter fraud study</p>
@@ -58,7 +58,7 @@ Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/ab
 </div> -->
 
 <div style="text-align:center; margin: 20px 0;">
-  <img src="pub_figures/ai_review/acc_rate.png" 
+  <img src="/images/pub_figures/ai_review/acc_rate.png" 
        alt="Findings figure 2" 
        style="max-width:100%; height:200px;"/>
   <p style="font-size:0.9em; color:#555;">Findings: ECDF comparison across categories</p>

@@ -12,7 +12,7 @@ author_profile: true
 Accepted and forthcoming in **CSCW 2025**.
 
 **Short Abstract:** 
-This paper present a mixed-method analysis of voter fraud misinformation on YouTube during Taiwan’s 2024 election. Using a computational pipeline and manual coding, we identify videos discussing ballot-related fraud claims. Our findings show that Democratic Progressive Party (DPP)-aligned accounts produced the most such content, which drew more comments but fewer likes than other videos. Case studies reveal distinct strategies: some media outlets and grassroots accounts promoted fraud claims, while DPP-linked channels often refuted them. This study sheds light on the dynamics of voter fraud misinformation in Taiwan and informs global efforts to mitigate its spread.
+This paper presents a mixed-method analysis of voter fraud misinformation on YouTube during Taiwan’s 2024 election. Using a computational pipeline and manual coding, we identify videos discussing ballot-related fraud claims. Our findings show that Democratic Progressive Party (DPP)-aligned accounts produced the most such content, which drew more comments but fewer likes than other videos. Case studies reveal distinct strategies: some media outlets and grassroots accounts promoted fraud claims, while DPP-linked channels often refuted them. This study sheds light on the dynamics of multi-modal voter fraud misinformation in Taiwan and informs global efforts to mitigate its spread.
 
 keywords:
 Misinformation, Election, Social Media, YouTube, Multimodal, Videos

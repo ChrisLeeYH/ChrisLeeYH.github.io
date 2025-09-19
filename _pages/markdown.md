@@ -29,7 +29,7 @@ redirect_from:
   <img src="/images/personal/lesmisrables.jpg" 
        alt="musical" 
        style="max-width:100%; height:300px;"/>
-  <p style="font-size:0.9em; color:#555;">Watching Les Miserables in Zurich, 2024</p>
+  <p style="font-size:0.9em; color:#555;">Watching Les Misérables in Zurich, 2024</p>
 </div>
 
 - Music has been my personal passion since childhood. I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China. This training not only gave me technical skill but also taught me creativity and a lifelong appreciation for artistic expression.

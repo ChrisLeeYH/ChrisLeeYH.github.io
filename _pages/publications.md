@@ -65,7 +65,7 @@ The analysis yields several findings;
 
 ## Aspect-Guided Multi-Level Perturbation Analysis of Large Language Models in Automated Peer Review
 Li, Jiatao., **Li, Yanheng**, Hu, Xinyu., Gao, Mingqi., & Wan, Xiaojun.  
-Accepted and forthcoming in *CIKM 2025*. [arXiv:2502.12510](https://arxiv.org/abs/2502.12510)
+Accepted and forthcoming in *CIKM 2025*. [[<span style="color:#1a73e8;">_Preprint_</span>](https://arxiv.org/abs/2502.12510)]
 
 
 **Short Abstract:** 
@@ -112,4 +112,4 @@ I co-examine the robustness of LLMs when used as automated peer reviewers.
 Under the context of the late-December 2024 U.S. government (almost) shutdown crisis, we analyzed 11,263 YouTube videos and 466,994 comments to examine how users engaged with political turmoil online. Using a multi-run human-in-the-loop pipeline, we identified 518 “amplifiers”—commenters whose threads attracted disproportionate replies—and developed an amplifier index to capture their influence. Two patterns emerged: occasional amplifiers, often tied to influencer uploads, and frequent amplifiers, who engaged across multiple YouTubers. Our findings reveal how amplifier behavior and platform affordances shape information diffusion during crises, offering insights for designing more responsive social media systems.
 
 ## Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview 
-Li, Jiatao., **Li, Yanheng**., & Wan, Xiaojun. [arXiv:2505.01967](https://arxiv.org/abs/2505.01967). Under review.
+Li, Jiatao., **Li, Yanheng**., & Wan, Xiaojun. [[<span style="color:#1a73e8;">_Preprint_</span>](https://arxiv.org/abs/2505.01967)]. Under review.

@@ -41,7 +41,7 @@ Through these pursuits, I strive to contribute to the forefront of HCI and compu
 
 
 ## Competitions
-- **Outstanding Winner** of ICM (10,000$). Outstanding Winner with SIAM and COMAP Scholarship Award (**Top 3 in more than 22,000 teams**), 2024, COMAP’s Interdisciplinary Contest in Modeling (ICM).
+- **Outstanding Winner** of ICM (10,000$). Outstanding Winner with SIAM and COMAP Scholarship Award (**Rank 1st in more than 28,000 teams**), 2024, COMAP’s Interdisciplinary Contest in Modeling (ICM).
 - **First Prize** in RUC Innovation Cup 2024. **Top 8%** in 26th “Innovation Cup” Academic Work Competition
 for Students, Renmin University of China.
 

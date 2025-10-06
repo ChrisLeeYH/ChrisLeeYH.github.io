@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Sports ##
-- Basketball has been a part of my life for more than 12 years. Currently, I play as a point guard on my school team, where I particularly enjoy the role of organizing the offense and creating opportunities for my teammates. In the spring of 2023, our team proudly won the championship in the basketball competition at Renmin University of China, which is an achievement that still stands out as one of my most memorable sporting experiences. Beyond the competition, basketball has shaped how I approach teamwork, leadership, and perseverance both on and off the court.
+- Basketball has been a part of my life for more than 12 years. Currently, I play as a point guard on my school team, where I particularly enjoy the role of organizing the offense and creating opportunities for my teammates. Beyond the competition, basketball has shaped how I approach teamwork, leadership, and perseverance both on and off the court.
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/personal/basketball.jpg" 

@@ -28,7 +28,7 @@ Through these pursuits, I strive to contribute to the forefront of HCI and compu
 
 ## Working Papers
 
-- **Li, Yanheng.**, Wang, Da., & Wang, Yuping. Analyzing Information Operation for the Late December Government Shutdown Crisis on YouTube. (Manuscript in preparation)
+- **Li, Yanheng.**, Wang, Da., & Wang, Yuping. Analyzing Information Operation for the Late December Government Shutdown Crisis on YouTube. Under Review.
 
 - Li, Jiatao., **Li Yanheng.**, & Wan, Xiaojun. (2025). Analyzing Cognitive Differences Among Large Language Models through the Lens of Social Worldview. arXiv preprint arXiv:2505.01967. Under Review.
 

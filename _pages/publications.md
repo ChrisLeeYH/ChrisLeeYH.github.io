@@ -9,7 +9,7 @@ author_profile: true
 
 ## Understanding Voter Fraud Misinformation Videos during the 2024 Taiwan Election on YouTube
 **Li, Yanheng**, Wang, Da, & Wang, Yuping.  
-Accepted and forthcoming in **CSCW 2025**. [[<span style="color:#1a73e8;">_Preprint_</span>](/assets/papers/yanheng_taiwan_misinfo_cscw516.pdf)] [[<span style="color:#1a73e8;">_Medium Blog_</span>](https://medium.com/acm-cscw/how-voter-fraud-misinformation-spread-on-youtube-lessons-from-taiwans-2024-election-189cc15f4bc6)]
+Accepted and forthcoming in **CSCW 2025**.  <span style="color:#FF574A"> _With Impact Recognition Award._</span>  [[<span style="color:#1a73e8;">_Preprint_</span>](/assets/papers/yanheng_taiwan_misinfo_cscw516.pdf)] [[<span style="color:#1a73e8;">_Medium Blog_</span>](https://medium.com/acm-cscw/how-voter-fraud-misinformation-spread-on-youtube-lessons-from-taiwans-2024-election-189cc15f4bc6)]
 
 **Short Abstract:** 
 This paper presents a mixed-method analysis of voter fraud misinformation on YouTube during Taiwan’s 2024 election. Using a computational pipeline and manual coding, we identify videos discussing ballot-related fraud claims. Our findings show that Democratic Progressive Party (DPP)-aligned accounts produced the most such content, which drew more comments but fewer likes than other videos. Case studies reveal distinct strategies: some media outlets and grassroots accounts promoted fraud claims, while DPP-linked channels often refuted them. This study sheds light on the dynamics of multi-modal voter fraud misinformation in Taiwan and informs global efforts to mitigate its spread.

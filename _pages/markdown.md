@@ -17,7 +17,7 @@ redirect_from:
   <p style="font-size:0.9em; color:#555;">Yanheng in the basketball court, 2023</p>
 </div>
 
-- In addition to basketball, I also enjoy running. Middle-distance races are especially appealing to me, and I am able to complete the 800 m in under 2 minutes 20 seconds. Running has become both a way to challenge my endurance and a practice that helps me stay disciplined and focused.
+<!-- - In addition to basketball, I also enjoy running. Middle-distance races are especially appealing to me, and I am able to complete the 800 m in under 2 minutes 20 seconds. Running has become both a way to challenge my endurance and a practice that helps me stay disciplined and focused. -->
 
 
 
@@ -32,4 +32,4 @@ redirect_from:
   <p style="font-size:0.9em; color:#555;">Watching Les Misérables in Zurich, 2024</p>
 </div>
 
-- Music has been my personal passion since childhood. I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China. This training not only gave me technical skill but also taught me creativity and a lifelong appreciation for artistic expression.
+- I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China.

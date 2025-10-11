@@ -32,4 +32,4 @@ redirect_from:
   <p style="font-size:0.9em; color:#555;">Watching Les Misérables in Zurich, 2024</p>
 </div>
 
-- I studied the flute for over ten years and earned the Amateur Level 10 Certificate from the Central Conservatory of Music in China.
+- I play the flute for over ten years.

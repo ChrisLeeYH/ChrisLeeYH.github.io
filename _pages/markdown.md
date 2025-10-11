@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Sports ##
-- Basketball has been a part of my life for more than 12 years. Currently, I play as a point guard on my school team, where I particularly enjoy the role of organizing the offense and creating opportunities for my teammates. Beyond the competition, basketball has shaped how I approach teamwork, leadership, and perseverance both on and off the court.
+- Basketball 🏀 has been a part of my life for more than 12 years. Currently, I play as a point guard on my school team, where I particularly enjoy the role of organizing the offense and creating opportunities for my teammates. Beyond the competition, basketball has shaped how I approach teamwork, leadership, and perseverance both on and off the court.
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/personal/basketball.jpg" 
@@ -23,7 +23,7 @@ redirect_from:
 
 ## Entertainment ##
 
-- I have a deep appreciation for the performing arts, especially musicals. Productions like Hamilton and Les Misérables inspire me with their blend of storytelling, music, and stagecraft, and they remind me of the power of art to connect people across cultures and generations. 
+- I have a deep appreciation for the performing arts, especially musicals🎵. Productions like Hamilton and Les Misérables inspire me with their blend of storytelling, music, and stagecraft, and they remind me of the power of art to connect people across cultures and generations. 
 
 <div style="text-align:center; margin: 20px 0;">
   <img src="/images/personal/lesmisrables.jpg" 
@@ -32,4 +32,4 @@ redirect_from:
   <p style="font-size:0.9em; color:#555;">Watching Les Misérables in Zurich, 2024</p>
 </div>
 
-- I play the flute for over ten years.
+- I play the flute 🪈 for over ten years.

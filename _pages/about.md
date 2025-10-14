@@ -34,6 +34,7 @@ Through these pursuits, I strive to contribute to the forefront of HCI and compu
 
 
 ## Selected Awards
+- JD. “Qiushi Future Scholars” Student Research/Innovation Scholarship (10,000 CNY), 2025, Renmin University of China.
 - ICBC Innovation Scholarship with **"Innovation Star" Designation** (8,000 CNY), Top 10/11,000+ student, 2025, Renmin University of China.
 - Principal’s Scholarship for **Excellent Exchange Student** (30,000 CNY), 2024, Renmin University of China.
 - Student Academic Award (5,000 CNY). **Top 2%** Student Academic Award, 2024, Renmin University of China.

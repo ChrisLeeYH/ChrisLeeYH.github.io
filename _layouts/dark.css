@@ -1,7 +1,0 @@
-@media (prefers-color-scheme: dark) {
-}
-blog.setDarkTheme(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
-if (window.matchMedia) {
-  var media = window.matchMedia('(prefers-color-scheme: dark)')
-  media.addListener(ev => (isDarkModel = blog.setDarkTheme(ev.currentTarget.matches)))
-}

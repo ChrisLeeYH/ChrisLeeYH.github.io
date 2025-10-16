@@ -1,31 +1,125 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
 
-# Instructions
+<p align="center">
+  <strong>Your unfair advantage in academia and tech.</strong><br/>
+  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
+</p>
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+<p align="center">
+  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
+  &nbsp;•&nbsp;
+  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>✨ Upgrade to Pro</b></a>
+</p>
 
-See more info at https://academicpages.github.io/
+<p align="center">
+  Trusted by 250,000+ researchers, students, and educators worldwide.
+</p>
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+<p align="center">
+  <a href="https://discord.gg/z8wNYzb">
+    <img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord">
+  </a>
+  <a href="https://github.com/HugoBlox/theme-academic-cv">
+    <img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars">
+  </a>
+</p>
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+---
 
-# Changelog -- bugfixes and enhancements
+## Your Career Starts Here
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+The Academic CV template is designed for impact. Whether you're an AI researcher, a recent graduate, or a seasoned professor, this is the last resumé you'll ever need.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+- **✍️ Showcase Your Expertise:** Easily write content with Markdown, Jupyter, or RStudio. Display your publications, talks, and projects in a stunning, professional layout.
+- **📈 Boost Your Citations:** Automatic BibTeX import and SEO-optimized pages mean your work gets discovered more easily, increasing your research impact.
+- **💼 Land Your Dream Job:** Create a memorable online presence that impresses recruiters from top tech firms and prestigious universities.
+- **🚀 Launch in Minutes:** No coding required. The Hugo Blox Builder lets you customize everything with drag-and-drop sections.
+
+<p align="center">
+  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
+    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" alt="Deploy this template" width="400">
+  </a>
+</p>
+
+---
+
+## Level Up with Pro Templates
+
+Ready to take your career to the next level? Our Pro templates offer exclusive designs and features to help you stand out even more.
+
+<!-- <p align="center">
+  <img src="" alt="Free vs Pro templates">
+</p>-->
+
+| Feature              | Academic CV (Free)       | Academic CV Pro & Resumé Pro     |
+| -------------------- | ------------------------ | -------------------------------- |
+| **Design**           | Professional & clean     | **Exclusive premium designs**    |
+| **Layouts**          | Standard resumé sections | **Advanced layouts & timelines** |
+| **Call to Action**   | Simple contact link      | **Prominent CTA buttons**        |
+| **First Impression** | Strong                   | **Unforgettable**                |
+
+<br/>
+<p align="center">
+  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Get the Pro Pass</b></a> — Includes all Pro templates for a one-time price.<br/>
+  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
+  &nbsp;•&nbsp;
+  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
+</p>
+
+---
+
+## What Researchers Say
+
+> “Hugo Blox saved me 40+ hours on my lab site. BibTeX integration auto-updates publications — **our citations are up 3×**.”
+> — **Dr. Sarah Yang**, AI Researcher
+
+---
+
+## Get Started in Minutes
+
+### Recommended (Fastest)
+
+Deploy your site to GitHub Pages in just 60 seconds with our browser-based starter.
+
+👉 <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>Start with the Academic CV Template</b></a>
+
+### Prefer the Command Line?
+
+Use the local quickstart:
+
+```bash
+# 1. Install Hugo Extended → https://docs.hugoblox.com/getting-started/install-hugo/
+# 2. Clone this starter
+git clone https://github.com/HugoBlox/theme-academic-cv my-site
+cd my-site
+
+# 3. Run locally
+pnpm install && hugo server
+```
+
+For more guides, visit our documentation at **https://docs.hugoblox.com/**.
+
+---
+
+## Join the Community
+
+Join thousands of creators in our vibrant community to ask questions, share your work, and help us improve.
+
+- 💬 <a href="https://discord.gg/z8wNYzb">Discord</a>
+- 📚 <a href="https://docs.hugoblox.com/?utm_source=github&utm_medium=readme">Docs & Guides</a>
+- 🐦 <a href="https://x.com/BuildLore">X / Twitter</a>
+- ⭐ <a href="https://github.com/HugoBlox/hugo-blox-builder">Star on GitHub</a>
+
+---
+
+MIT © 2016-Present [George Cushen](https://georgecushen.com)
+
+<!--START_SECTION:news-->
+<!--Updated at 2025-10-12T01:52:57.215Z-->
+<!--END_SECTION:news-->
